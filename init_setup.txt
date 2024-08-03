@@ -1,0 +1,12 @@
+// First we install langchain and echo\
+
+go get github.com/tmc/langchaingo
+go get github.com/tmc/langchaingo/llms
+go get github.com/labstack/echo/v4
+
+export OPENAI_API_KEY=WttDLocFfDmilrGs1apaoZI3VMCDR8Gb
+export OPENAI_BASE_URL=https://api.deepinfra.com/v1/openai
+
+Powershell
+$Env:OPENAI_API_KEY = 'WttDLocFfDmilrGs1apaoZI3VMCDR8Gb'
+$Env:OPENAI_BASE_URL = 'https://api.deepinfra.com/v1/openai'
