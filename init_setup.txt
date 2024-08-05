@@ -6,7 +6,9 @@ go get github.com/labstack/echo/v4
 
 export OPENAI_API_KEY=WttDLocFfDmilrGs1apaoZI3VMCDR8Gb
 export OPENAI_BASE_URL=https://api.deepinfra.com/v1/openai
+export QDRANT_API_KEY=wZ8oF_tM9YFLMhl9Yl620vds3yEwCvR-jywUjU8jzmM5Vri2WFzWmw
 
 Powershell
 $Env:OPENAI_API_KEY = 'WttDLocFfDmilrGs1apaoZI3VMCDR8Gb'
 $Env:OPENAI_BASE_URL = 'https://api.deepinfra.com/v1/openai'
+$Env:QDRANT_API_KEY = 'wZ8oF_tM9YFLMhl9Yl620vds3yEwCvR-jywUjU8jzmM5Vri2WFzWmw'
